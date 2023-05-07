@@ -1,7 +1,7 @@
 # Responsive Clock Ui
 ### BY TALO
 
-<a href="https://alphaotuken.github.io/Responsive-Hover-Card/"><strong>➥ Live Demo</strong></a>
+<a href="https://alphaotuken.github.io/clock-ui/"><strong>➥ Live Demo</strong></a>
 
 - Beautiful responsive clock UI design using HTML, CSS, and JAVASCRIPT.
 - Contains an elegant Neumorphism watch.
