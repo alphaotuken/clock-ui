@@ -1,6 +1,7 @@
 # Responsive Clock Ui
-## [Watch it on youtube](https://youtu.be/H4-lcB3dr-Q)
-### Responsive Clock Ui
+### BY TALO
+
+<a href="https://alphaotuken.github.io/Responsive-Hover-Card/"><strong>➥ Live Demo</strong></a>
 
 - Beautiful responsive clock UI design using HTML, CSS, and JAVASCRIPT.
 - Contains an elegant Neumorphism watch.
@@ -10,6 +11,12 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
-
 ![Clock ui](/preview.png)
+
+### Contact
+
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/taloisik).
+
+### License
+
+This project contains the MIT Licence 
