@@ -1,7 +1,7 @@
 * CLOCK UI
 
 clock__logo
-https://www.youtube.com/c/taloisik/
+https://www.youtube.com/c/Talo/
 
 Months abbreviated in
 
