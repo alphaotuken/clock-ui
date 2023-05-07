@@ -1,4 +1,3 @@
-
 /*==================== CLOCK ====================*/
 const hour = document.getElementById('clock-hour'),
       minutes = document.getElementById('clock-minutes'),
